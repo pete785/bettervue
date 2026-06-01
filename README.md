@@ -2,7 +2,7 @@
 
 A modern, fast replacement for the StudentVUE web portal. BetterVUE talks directly to your district's EduPoint/Synergy backend and presents grades, assignments, and attendance in a clean PowerSchool-style interface.
 
-Try at [http://bettervue.petedude.xyz/](http://bettervue.petedude.xyz/)
+Try at [https://bettervue.petedude.xyz/](https://bettervue.petedude.xyz/)
 
 ## Quick start
 
